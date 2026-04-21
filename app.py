@@ -14,9 +14,9 @@ with open("model2.pkl", "rb") as f:
 # -----------------------------
 # TITLE
 # -----------------------------
-st.title("🌱 Smart Agriculture Prediction App")
+st.title("My Agriculture Prediction App")
 
-st.write("Enter input values to predict output")
+st.write("Enter  values to predict output")
 
 # -----------------------------
 # USER INPUT (AUTO FROM COLUMNS)
